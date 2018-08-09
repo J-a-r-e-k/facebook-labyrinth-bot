@@ -25,6 +25,7 @@
   "homepage": "https://github.com/J-a-r-e-k/facebook-labyrinth-bot#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
+    "eslint": "^5.3.0",
     "express": "^4.16.3",
     "lodash": "^4.17.10",
     "redis": "^2.8.0",
