@@ -4,6 +4,11 @@ Example facebook bot that allows users to go through the labyrinth.
 
 ![Preview](https://raw.githubusercontent.com/J-a-r-e-k/facebook-labyrinth-bot/master/public/images/preview.png)
 
+##  Requirements
+
+- Node.js
+- Redis
+
 ## Construction of a labyrinth
 
 ![Preview](https://raw.githubusercontent.com/J-a-r-e-k/facebook-labyrinth-bot/master/public/images/11.png)
